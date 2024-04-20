@@ -1,3 +1,10 @@
+Tujuan :
+Memahami cara instalasi react js.
+Memahami cara penggunaan class component.
+Memahami cara penggunaan function component
+![Uploading Screenshot 2024-04-21 021151.png…]()
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
