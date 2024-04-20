@@ -2,8 +2,8 @@ Tujuan :
 Memahami cara instalasi react js.
 Memahami cara penggunaan class component.
 Memahami cara penggunaan function component
-![Uploading Screenshot 2024-04-21 021151.png…]()
 
+![Screenshot 2024-04-21 021151](https://github.com/septianadip17/tugas1-reactjs-niomic/assets/88721064/d070c02f-110b-4e1e-b262-9643f0b1404a)
 
 # Getting Started with Create React App
 
